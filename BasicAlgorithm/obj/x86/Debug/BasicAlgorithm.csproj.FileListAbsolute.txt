@@ -1,0 +1,4 @@
+E:\GitHub\EnjoyMyself\BasicAlgorithm\bin\Debug\BasicAlgorithm.exe
+E:\GitHub\EnjoyMyself\BasicAlgorithm\bin\Debug\BasicAlgorithm.pdb
+E:\GitHub\EnjoyMyself\BasicAlgorithm\obj\x86\Debug\BasicAlgorithm.exe
+E:\GitHub\EnjoyMyself\BasicAlgorithm\obj\x86\Debug\BasicAlgorithm.pdb
