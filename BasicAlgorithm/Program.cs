@@ -10,6 +10,8 @@ namespace BasicAlgorithm
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Github！");
+            Console.Read();
+            Console.WriteLine("so goodbye~");
         }
     }
 }
